@@ -6,8 +6,10 @@ This repository is dedicated to generating insightful and user-centric reports f
 
 # Sales Report
 Customer Performance Report: Analyze and document customer-specific sales performance trends.
+(https://github.com/VaishnaviVanam/Sales-and-Financial-Performance-Reports/blob/main/Customer%20Performance%20Report%20.pdf)
 
 Market Performance vs. Sales Target Comparison: Provide a comprehensive view of market performance relative to targets.
+(https://github.com/VaishnaviVanam/Sales-and-Financial-Performance-Reports/blob/main/Market%20Performance%20Vs%20Target%20Report.pdf)
 
 Purpose of Sales Analytics:
 Empower the business to monitor and evaluate sales activities effectively.
@@ -19,7 +21,11 @@ Facilitate productive consumer negotiations and identify expansion opportunities
 
 # Finance Report
 Profit & Loss Reports by Fiscal Year & Months: Understand financial performance and growth over time.
+(https://github.com/VaishnaviVanam/Sales-and-Financial-Performance-Reports/blob/main/P%20%26%20L%20Statement%20by%20Fiscal%20Year.pdf)
+(https://github.com/VaishnaviVanam/Sales-and-Financial-Performance-Reports/blob/main/P%20%26%20L%20Statement%20by%20Months.pdf )
+
 Profit & Loss Reports by Markets: Evaluate profitability across geographic locations.
+(https://github.com/VaishnaviVanam/Sales-and-Financial-Performance-Reports/blob/main/P%20%26%20L%20Statement%20by%20Markets.pdf)
 
 Purpose of Financial Analytics:
 Enable clear communication with stakeholders regarding financial standing.
